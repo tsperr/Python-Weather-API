@@ -1,3 +1,4 @@
+![Screen Shot 2021-07-26 at 3 16 27 PM](https://user-images.githubusercontent.com/76749991/127045859-663180b3-cbf5-4744-b1a5-04d9aebd2fec.png)
 # python-api-challenge
 # Python API Homework - What's the Weather Like?
 
